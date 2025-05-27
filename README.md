@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ritik Kumar
 **A passionate Software Developer Engineer || DevOps Engineer**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ritikumar0987@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Ingenious Techzoid
 - 🌱 **I’m currently learning:** FastAPI framework
